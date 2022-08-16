@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhi685sharma
 - 👀 I’m interested in web development and design 
-and want to be full stack web development.
+and want to be Front-end web developer.
 - 🌱 I’m currently learning jQuery,react,Node.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my LinkedIn profile link 
